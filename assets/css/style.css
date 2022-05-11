@@ -149,15 +149,18 @@ body {
   );
 }
 
+/*
+.bg-collapse {
+  background-color: green;
+}
+*/
+
 @media screen and (max-width: 992px) {
   .bg-collapse {
     background-color: rgba(0, 0, 0, 0.5);
     font-size: 18.5px;
     padding-left: 15px;
     border-radius: 8px;
-  }
-  .navbar-toggler {
-    background: black;
   }
 }
 
